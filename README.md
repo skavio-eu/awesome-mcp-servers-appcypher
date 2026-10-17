@@ -348,6 +348,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://zbd.gg/favicon.ico" height="14"/> [ZBD](https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)<sup><sup>⭐</sup></sup> - Interact with ZBD's payment processing APIs for instant global payments with Bitcoin and Lightning Network
 
 <br />
+- [Skavio USDC Payment Verification & Proof MCP](https://www.skavio.eu/x402/) - Hosted native USDC verification, exact payment matching, blockchain evidence PDFs and DNS/TLS audits. Paid calls use Base USDC via x402; free discovery and [client setup](https://github.com/skavio-eu/skavio-agent-tools).
+
 
 ## 🧬 <a name="research-data"></a>Research & Data
 
